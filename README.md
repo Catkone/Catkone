@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Catkone
+- 👋 Hi, I’m Catkone, have seen little of the world.
 - 🌱 I’m currently learning MATLAB and Python.
-- 📫 How to reach me ...
+- ✨ I advance and retreat with my hair.
 
 <!---
 Catkone/Catkone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
